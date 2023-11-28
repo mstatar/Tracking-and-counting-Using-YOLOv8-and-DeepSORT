@@ -1,4 +1,4 @@
-# Tracking-and-counting-Using-YOLOv8-and-DeepSORT
+# deep_sort
 Tracking and counting persons
 
 Follow this Youtube video to run this code: https://youtu.be/Y2fyDYcfmBg
